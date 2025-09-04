@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,8,100,23,2.9,91,0.4,3.6,2.3,0.1,0.1,140,0.1,0.63,23,558,99,79,0.81,0.53,30,Anal Cancer
+stage 1,7.2,89,20.47,2.581,80.99,0.356,3.204,2.047,0.089,0.089,124.6,0.089,0.5607,20.47,496.62,88.11,70.31,0.7209,0.4717,50,Anal Cancer
+stage 2,6.2,85,19.55,2.465,77.35,0.34,3.06,1.955,0.085,0.085,119,0.085,0.5355,19.55,474.3,84.15,67.15,0.6885,0.4505,60,Anal Cancer
+stage 3,5.7,80,18.4,2.32,72.8,0.32,2.88,1.84,0.08,0.08,112,0.08,0.504,18.4,446.4,79.2,63.2,0.648,0.424,90,Anal Cancer
+stage 4,5,76,17.48,2.204,69.16,0.304,2.736,1.748,0.076,0.076,106.4,0.076,0.4788,17.48,424.08,75.24,60.04,0.6156,0.4028,120,Anal Cancer

@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,8,100,23,2.9,91,0.4,3.6,2.3,0.1,0.1,140,0.1,0.63,23,558,99,79,0.81,0.53,40,pharyngeal cancer
+stage 1,7,100,23,2.9,91,0.4,3.6,2.3,0.1,0.1,140,0.1,0.63,23,558,99,79,0.81,0.53,45,pharyngeal cancer
+stage 2,7,80,18.4,2.32,72.8,0.32,2.88,1.84,0.08,0.08,112,0.08,0.504,18.4,446.4,79.2,63.2,0.648,0.424,60,pharyngeal cancer
+stage 3,5,60,13.8,1.74,54.6,0.24,2.16,1.38,0.06,0.06,84,0.06,0.378,13.8,334.8,59.4,47.4,0.486,0.318,75,pharyngeal cancer
+stage 4,4,30,6.9,0.87,27.3,0.12,1.08,0.69,0.03,0.03,42,0.03,0.189,6.9,167.4,29.7,23.7,0.243,0.159,90,pharyngeal cancer

@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,6.5,89,20.47,2.581,80.99,0.356,3.204,2.047,0.089,0.089,124.6,0.089,0.5607,20.47,496.62,88.11,70.31,0.7209,0.4717,75,vascular tumors
+stage 1,5,74,17.02,2.146,67.34,0.296,2.664,1.702,0.074,0.074,103.6,0.074,0.4662,17.02,412.92,73.26,58.46,0.5994,0.3922,90,vascular tumors
+stage 2,4,63,14.49,1.827,57.33,0.252,2.268,1.449,0.063,0.063,88.2,0.063,0.3969,14.49,351.54,62.37,49.77,0.5103,0.3339,120,vascular tumors
+stage 3,3,59,13.57,1.711,53.69,0.236,2.124,1.357,0.059,0.059,82.6,0.059,0.3717,13.57,329.22,58.41,46.61,0.4779,0.3127,140,vascular tumors
+stage 4,2,43,9.89,1.247,39.13,0.172,1.548,0.989,0.043,0.043,60.2,0.043,0.2709,9.89,239.94,42.57,33.97,0.3483,0.2279,180,vascular tumors

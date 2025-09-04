@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,7,80,18.4,2.32,72.8,0.32,2.88,1.84,0.08,0.08,112,0.08,0.504,18.4,446.4,79.2,63.2,0.648,0.424,95,bronchal tumer
+stage 1,6.5,72,16.56,2.088,65.52,0.288,2.592,1.656,0.072,0.072,100.8,0.072,0.4536,16.56,401.76,71.28,56.88,0.5832,0.3816,72,bronchal tumer
+stage 2,5,65,14.95,1.885,59.15,0.26,2.34,1.495,0.065,0.065,91,0.065,0.4095,14.95,362.7,64.35,51.35,0.5265,0.3445,65,bronchal tumer
+stage 3,4.5,52,11.96,1.508,47.32,0.208,1.872,1.196,0.052,0.052,72.8,0.052,0.3276,11.96,290.16,51.48,41.08,0.4212,0.2756,15,bronchal tumer
+stage 4,3,45,10.35,1.305,40.95,0.18,1.62,1.035,0.045,0.045,63,0.045,0.2835,10.35,251.1,44.55,35.55,0.3645,0.2385,32,bronchal tumer

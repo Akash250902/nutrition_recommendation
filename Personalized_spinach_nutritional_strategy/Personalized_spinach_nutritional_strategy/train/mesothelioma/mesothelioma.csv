@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,9,90,20.7,2.61,81.9,0.36,3.24,2.07,0.09,0.09,126,0.09,0.567,20.7,502.2,89.1,71.1,0.729,0.477,30,mesothelioma
+stage 1,7,80,18.4,2.32,72.8,0.32,2.88,1.84,0.08,0.08,112,0.08,0.504,18.4,446.4,79.2,63.2,0.648,0.424,50,mesothelioma
+stage 2,5,60,13.8,1.74,54.6,0.24,2.16,1.38,0.06,0.06,84,0.06,0.378,13.8,334.8,59.4,47.4,0.486,0.318,70,mesothelioma
+stage 3,4,50,11.5,1.45,45.5,0.2,1.8,1.15,0.05,0.05,70,0.05,0.315,11.5,279,49.5,39.5,0.405,0.265,90,mesothelioma
+stage 4,2,40,9.2,1.16,36.4,0.16,1.44,0.92,0.04,0.04,56,0.04,0.252,9.2,223.2,39.6,31.6,0.324,0.212,100,mesothelioma

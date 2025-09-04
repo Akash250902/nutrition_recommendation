@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,6,99,22.77,2.871,90.09,0.396,3.564,2.277,0.099,0.099,138.6,0.099,0.6237,22.77,552.42,98.01,78.21,0.8019,0.5247,100,ovarian cancer
+stage 1,5,88,20.24,2.552,80.08,0.352,3.168,2.024,0.088,0.088,123.2,0.088,0.5544,20.24,491.04,87.12,69.52,0.7128,0.4664,120,ovarian cancer
+stage 2,4,77,17.71,2.233,70.07,0.308,2.772,1.771,0.077,0.077,107.8,0.077,0.4851,17.71,429.66,76.23,60.83,0.6237,0.4081,140,ovarian cancer
+stage 3,3,66,15.18,1.914,60.06,0.264,2.376,1.518,0.066,0.066,92.4,0.066,0.4158,15.18,368.28,65.34,52.14,0.5346,0.3498,160,ovarian cancer
+stage 4,2,55,12.65,1.595,50.05,0.22,1.98,1.265,0.055,0.055,77,0.055,0.3465,12.65,306.9,54.45,43.45,0.4455,0.2915,185,ovarian cancer

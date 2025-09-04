@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,8,100,23,2.9,91,0.4,3.6,2.3,0.1,0.1,140,0.1,0.63,23,558,99,79,0.81,0.53,80,multiple myeloma
+stage 1,6.8,85,19.55,2.465,77.35,0.34,3.06,1.955,0.085,0.085,119,0.085,0.5355,19.55,474.3,84.15,67.15,0.6885,0.4505,60,multiple myeloma
+stage 2,5,60,13.8,1.74,54.6,0.24,2.16,1.38,0.06,0.06,84,0.06,0.378,13.8,334.8,59.4,47.4,0.486,0.318,40,multiple myeloma
+stage 3,4,55,12.65,1.595,50.05,0.22,1.98,1.265,0.055,0.055,77,0.055,0.3465,12.65,306.9,54.45,43.45,0.4455,0.2915,35,multiple myeloma
+stage 4,3.2,40,9.2,1.16,36.4,0.16,1.44,0.92,0.04,0.04,56,0.04,0.252,9.2,223.2,39.6,31.6,0.324,0.212,20,multiple myeloma

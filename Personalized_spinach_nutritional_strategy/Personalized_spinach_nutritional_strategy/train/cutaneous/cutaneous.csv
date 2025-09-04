@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,7,65,14.95,1.885,59.15,0.26,2.34,1.495,0.065,0.065,91,0.065,0.4095,14.95,362.7,64.35,51.35,0.5265,0.3445,100,cutaneous
+stage 1,6.3,50,11.5,1.45,45.5,0.2,1.8,1.15,0.05,0.05,70,0.05,0.315,11.5,279,49.5,39.5,0.405,0.265,80,cutaneous
+stage 2,5.8,42,9.66,1.218,38.22,0.168,1.512,0.966,0.042,0.042,58.8,0.042,0.2646,9.66,234.36,41.58,33.18,0.3402,0.2226,65,cutaneous
+stage 3,4.5,35,8.05,1.015,31.85,0.14,1.26,0.805,0.035,0.035,49,0.035,0.2205,8.05,195.3,34.65,27.65,0.2835,0.1855,40,cutaneous
+stage 4,3.5,30,6.9,0.87,27.3,0.12,1.08,0.69,0.03,0.03,42,0.03,0.189,6.9,167.4,29.7,23.7,0.243,0.159,30,cutaneous

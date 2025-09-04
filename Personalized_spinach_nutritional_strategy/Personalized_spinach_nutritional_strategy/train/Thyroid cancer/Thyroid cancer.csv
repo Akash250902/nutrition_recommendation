@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,10,160,36.8,4.64,145.6,0.64,5.76,3.68,0.16,0.16,224,0.16,1.008,36.8,892.8,158.4,126.4,1.296,0.848,150,Thyroid cancer
+stage 1,9.4,140,32.2,4.06,127.4,0.56,5.04,3.22,0.14,0.14,196,0.14,0.882,32.2,781.2,138.6,110.6,1.134,0.742,170,Thyroid cancer
+stage 2,8,120,27.6,3.48,109.2,0.48,4.32,2.76,0.12,0.12,168,0.12,0.756,27.6,669.6,118.8,94.8,0.972,0.636,190,Thyroid cancer
+stage 3,7.6,110,25.3,3.19,100.1,0.44,3.96,2.53,0.11,0.11,154,0.11,0.693,25.3,613.8,108.9,86.9,0.891,0.583,210,Thyroid cancer
+stage 4,6,100,23,2.9,91,0.4,3.6,2.3,0.1,0.1,140,0.1,0.63,23,558,99,79,0.81,0.53,230,Thyroid cancer

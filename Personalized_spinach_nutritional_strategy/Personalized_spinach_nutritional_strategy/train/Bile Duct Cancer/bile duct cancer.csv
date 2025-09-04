@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,9.8,94,21.62,2.726,85.54,0.376,3.384,2.162,0.094,0.094,131.6,0.094,0.5922,21.62,524.52,93.06,74.26,0.7614,0.4982,85,Bile Duct Cancer
+stage 1,9,74,17.02,2.146,67.34,0.296,2.664,1.702,0.074,0.074,103.6,0.074,0.4662,17.02,412.92,73.26,58.46,0.5994,0.3922,110,Bile Duct Cancer
+stage 2,8.6,54,12.42,1.566,49.14,0.216,1.944,1.242,0.054,0.054,75.6,0.054,0.3402,12.42,301.32,53.46,42.66,0.4374,0.2862,150,Bile Duct Cancer
+stage 3,7.5,49,11.27,1.421,44.59,0.196,1.764,1.127,0.049,0.049,68.6,0.049,0.3087,11.27,273.42,48.51,38.71,0.3969,0.2597,170,Bile Duct Cancer
+stage 4,6.5,40,9.2,1.16,36.4,0.16,1.44,0.92,0.04,0.04,56,0.04,0.252,9.2,223.2,39.6,31.6,0.324,0.212,180,Bile Duct Cancer

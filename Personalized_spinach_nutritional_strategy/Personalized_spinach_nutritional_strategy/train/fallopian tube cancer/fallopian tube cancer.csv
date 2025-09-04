@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,8,75,17.25,2.175,68.25,0.3,2.7,1.725,0.075,0.075,105,0.075,0.4725,17.25,418.5,74.25,59.25,0.6075,0.3975,70,fallopian tube cancer
+stage 1,7.5,64,14.72,1.856,58.24,0.256,2.304,1.472,0.064,0.064,89.6,0.064,0.4032,14.72,357.12,63.36,50.56,0.5184,0.3392,65,fallopian tube cancer
+stage 2,5,55,12.65,1.595,50.05,0.22,1.98,1.265,0.055,0.055,77,0.055,0.3465,12.65,306.9,54.45,43.45,0.4455,0.2915,54,fallopian tube cancer
+stage 3,4.2,50,11.5,1.45,45.5,0.2,1.8,1.15,0.05,0.05,70,0.05,0.315,11.5,279,49.5,39.5,0.405,0.265,35,fallopian tube cancer
+stage 4,3.5,45,10.35,1.305,40.95,0.18,1.62,1.035,0.045,0.045,63,0.045,0.2835,10.35,251.1,44.55,35.55,0.3645,0.2385,20,fallopian tube cancer

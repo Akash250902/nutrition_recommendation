@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+	 
+ 
+	 
+ 
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+	<style>
+	 
+ 
+	{% include 'lib/owlcarousel/assets/owl.carousel.min.css' %}
+	{% include 'lib/animate/animate.min.css' %}
+	{% include 'css/bootstrap.min.css' %}
+	{% include 'css/style.css' %}
+	</style>
+</head>
+
+<body>
+ 
+
+
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
+        <div class="row gx-0">
+            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+                
+            </div>
+         
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+
+    <!-- Navbar Start -->
+    <div class="container-fluid position-relative p-0">
+        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+            <a href="index.html" class="navbar-brand p-0">
+                <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Spinach Nutritional</h1>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav ms-auto py-0">
+                       <a href="/user_home" class="nav-item nav-link active">Home</a>
+					   <a href="/" class="nav-item nav-link">Logout</a>                
+				</div>
+              
+            </div>
+        </nav>
+
+        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+            <div class="row py-5">
+                <div class="col-12 pt-lg-5 mt-lg-5 text-center">
+                   
+               
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+
+    <!-- Full Screen Search Start -->
+ 
+    <!-- Full Screen Search End -->
+
+
+    <!-- About Start -->
+ 
+    <!-- About End -->
+
+
+    <!-- Team Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+               
+                <h1 class="mb-0">User Home</h1>
+            </div>
+			 <form name="form1" method="post" action="/user_home_1">
+                    <table width="398" height="140" border="0" align="center">
+                      <tr>
+                        <td width="161">Cancer Type </td>
+                        <td width="227"> 
+                          <select name="select">
+						   {% for row in items %}
+                            <option value="{{ row }}">{{ row }}</option>
+							 {% endfor %}
+                          </select>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>State</td>
+                        <td><select name="select2">
+ 
+                          <option value="stage 0">stage 0</option>
+                          <option value="stage 1">stage 1</option>
+                          <option value="stage 2">stage 2</option>
+                          <option value="stage 3">stage 3</option>
+                          <option value="stage 4">stage 4</option>
+                      
+                        </select></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td><label>
+                          <input type="submit" name="Submit" value="Submit">
+                        </label></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td> </td>
+                      </tr>
+               </table>
+                    <p>&nbsp;</p>
+                    {% if result%}
+                 <table width="512" height="140" border="1" align="center">
+                      <tr>
+                        <td width="195">spinach level in powder(g)</td>
+                        <td width="193">{{ result["spinach level in powder(g)"] }}</td>
+                      </tr>
+
+                      <tr>
+                        <td>fresh spinach(g)</td>
+                        <td>{{ result["fresh spinach(g)"] }}</td>
+                      </tr>
+                      <tr>
+                        <td>protein(g)</td>
+                        <td>{{ result["protein(g)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>calories kcal</td>
+                        <td>{{ result["calories kcal"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>moisture(%)</td>
+                        <td>{{ result[" moisture(%)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>fat(g)</td>
+                        <td>{{ result["fat(g)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>carbohydrate(g)</td>
+                        <td>{{ result["carbohydrate(g)"] }} </td>
+                      </tr>
+<tr>
+                        <td>fiber(g)</td>
+                        <td>{{ result["fiber(g)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>minerals(mg)</td>
+                        <td>{{ result["minerals(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>cu(mg)</td>
+                        <td>{{ result["cu(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>vitamin A(µg)</td>
+                        <td>{{ result["vitamin A(µg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>vitaminB(mg)</td>
+                        <td>{{ result["vitaminB(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>vitaminE(mg)</td>
+                        <td>{{ result["vitaminE(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>energy (kcal)</td>
+                        <td>{{ result["energy (kcal)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>potassium(mg)<br></td>
+                        <td>{{ result["potassium(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>calcium(mg)</td>
+                        <td>{{ result["calcium(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>megnesium(mg)</td>
+                        <td>{{ result["megnesium(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>iron( mg)</td>
+                        <td>{{ result["iron( mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>zinc(mg)</td>
+                        <td>{{ result["zinc(mg)"] }} </td>
+                      </tr>
+                      <tr>
+                        <td>no. of days</td>
+                        <td>{{ result["no. of days"] }} </td>
+                      </tr>
+                    </table>
+                 {% endif%}
+               <p>&nbsp;</p>
+			 </form>
+            <div class="row g-5">
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
+                 
+                </div>
+           
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+
+
+    <!-- Vendor Start -->
+    
+    <!-- Vendor End -->
+    
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row gx-5">
+               
+               
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid text-white" style="background: #061429;">
+        <div class="container text-center">
+            <div class="row justify-content-end">
+                <div class="col-lg-8 col-md-6">
+                    <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+	<script>
+	{% include 'lib/wow/wow.min.js' %}
+	{% include 'lib/easing/easing.min.js' %}
+	{% include 'lib/waypoints/waypoints.min.js' %}
+	{% include 'lib/counterup/counterup.min.js' %}
+	{% include 'lib/owlcarousel/owl.carousel.min.js' %}
+	{% include 'js/main.js' %}
+ 
+	</script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+	
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+Stages,spinach level in powder(g),fresh spinach(g),protein(g),calories kcal,moisture(%),fat(g),carbohydrate(g),fiber(g),minerals(mg),cu(mg),vitamin A(µg),vitaminB(mg),vitaminE(mg),energy (kcal),potassium(mg),calcium(mg),megnesium(mg),iron( mg),zinc(mg),no. of days,cancer type
+stage 0,5.5,100,23,2.9,91,0.4,3.6,2.3,0.1,0.1,140,0.1,0.63,23,558,99,79,0.81,0.53,75,Brain Tumors
+stage 1,5.4,85,19.55,2.465,77.35,0.34,3.06,1.955,0.085,0.085,119,0.085,0.5355,19.55,474.3,84.15,67.15,0.6885,0.4505,100,Brain Tumors
+stage 2,5.3,67,15.41,1.943,60.97,0.268,2.412,1.541,0.067,0.067,93.8,0.067,0.4221,15.41,373.86,66.33,52.93,0.5427,0.3551,125,Brain Tumors
+stage 3,4,53,12.19,1.537,48.23,0.212,1.908,1.219,0.053,0.053,74.2,0.053,0.3339,12.19,295.74,52.47,41.87,0.4293,0.2809,139,Brain Tumors
+stage 4,3,42,9.66,1.218,38.22,0.168,1.512,0.966,0.042,0.042,58.8,0.042,0.2646,9.66,234.36,41.58,33.18,0.3402,0.2226,150,Brain Tumors
